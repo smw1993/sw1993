@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM RedHat:latest
 MAINTAINER srinnuw7350@gmail.com
 RUN yum install -y httpd \
  zip \
